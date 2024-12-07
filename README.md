@@ -48,7 +48,7 @@ Each model is evaluated using the following metrics:
 The project aims to provide valuable insights into customer churn, helping the telecom company to take preventive actions. The final model can predict with high accuracy whether a customer is likely to churn, enabling the company to target these customers with retention strategies.
 
 ## Requirements
-- Python 3.x
+- Python 3.12.4
 - Pandas
 - NumPy
 - Scikit-learn
@@ -56,8 +56,4 @@ The project aims to provide valuable insights into customer churn, helping the t
 - Seaborn
 - XGBoost
 
-## Installation
-1. Clone the repository.
-2. Install the necessary dependencies using pip:
- ```bash
-python churn_prediction.py
+
